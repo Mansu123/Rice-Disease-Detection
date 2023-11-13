@@ -1,2 +1,2 @@
 # Rice-Disease-Detection
-Rice Disease Detection using CNN and Keras ,EfficieNet+VIT using Pytorch
+Rice Disease Detection using EfficieNet+VIT using Pytorch
